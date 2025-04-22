@@ -1,0 +1,7 @@
+.venv/*
+!.venv/.gitkeep
+
+notebooks/data/*
+!notebooks/data/.gitkeep
+
+notebooks/.ipynb_checkpoints/*
