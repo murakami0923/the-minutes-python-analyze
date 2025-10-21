@@ -3,5 +3,6 @@
 
 notebooks/data/*
 !notebooks/data/.gitkeep
+!notebooks/data/ffmpeg.sh
 
 notebooks/.ipynb_checkpoints/*
